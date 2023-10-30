@@ -1,0 +1,20 @@
+table{
+	border: thick double #7B0096;
+	border-width: 5px;
+}
+
+table, tr{
+	border-collapse: collapse;
+}
+
+caption{
+	color: #7B0096;
+}
+
+tr, td, th{
+	border: solid black 2px;
+}
+
+th{
+	background-color: #5BC9D6;
+}

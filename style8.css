@@ -1,0 +1,29 @@
+table{
+	border: solid #b47058 3px;
+}
+
+thead, tbody{
+	border-collapse: collapse;
+}
+
+caption{
+	color: #6fbea7;
+}
+
+tr, td, th{
+	border: solid black 2px;
+}
+
+th{
+	background-color: #be846f;
+}
+
+.mil{
+	background-color: #8bdec6;
+	border: solid #70bca6 3px;
+}
+
+.prem, .date{
+	background-color: #f8bca6;
+	border: solid #dca894 3px;
+}
